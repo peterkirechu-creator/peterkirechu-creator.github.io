@@ -1,7 +1,7 @@
 <img src="Peter_Kirechu.png" alt="Peter Kirechu" width="300" />
 
 ### About 
-I am PhD student in the Department of Sociology at University of California, Berkeley
+I am a PhD student in the Department of Sociology at University of California, Berkeley
 
 
 ### Research Interests
